@@ -1,6 +1,6 @@
 # Tools
 # 针对各大型搜索引擎的搜索结果爬虫 
-
+## 使用到的技术：
 **HttpWebRequest and HtmlWeb**：发送请求  
 **HtmlAgilityPack**：加载网页  
 **Xpath**:语法取值  

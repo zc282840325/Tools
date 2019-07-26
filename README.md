@@ -1,5 +1,12 @@
 # Tools
 # 针对各大型搜索引擎的搜索结果爬虫 
+
+    HttpWebRequest and HtmlWeb：发送请求
+    HtmlAgilityPack：加载网页
+    Xpath:语法取值
+    Parallel.ForEach：多线程并发
+    WebProxy：代理IP
+    
 ## 微博(人气抓取)
     微博地址：'https://s.weibo.com/user?Refer=weibo_user&q='
     Xpath://*[@id='pl_user_feedList']/div[1]/div[2]/p[3]/span[2]/a
